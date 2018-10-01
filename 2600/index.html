@@ -241,12 +241,12 @@
         </li>
       
         
-        <li class="menu-item menu-item-随拍-/ tour">
+        <li class="menu-item menu-item-游记-/ tour">
           <a href="/categories/Tour" rel="section">
             
               <i class="menu-item-icon fa fa-fw fa-camera-retro"></i> <br />
             
-            随拍 / Tour
+            游记 / Tour
           </a>
         </li>
       
@@ -349,15 +349,15 @@
           
             
               <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/2600/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count disqus-comment-count"
-                        data-disqus-identifier="2600/" itemprop="commentCount"></span>
-                </a>
+              <span class="post-meta-divider">|</span>
+              <span class="post-meta-item-icon">
+                <i class="fa fa-comment-o"></i>
               </span>
+              
+                <a href="/2600/#SOHUCS" itemprop="discussionUrl">
+                  <span id="changyan_count_unit" class="post-comments-count hc-comment-count" data-xid="2600/" itemprop="commentsCount"></span>
+                </a>
+              
             
           
 
@@ -488,6 +488,27 @@
 
     <div class="post-spread">
       
+      <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+      <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+      <script>
+        const gitment = new Gitment({
+          id: 'Your page ID', // optional
+          owner: 'Your GitHub ID',
+          repo: 'The repo to store comments',
+          oauth: {
+            client_id: 'Your client ID',
+            client_secret: 'Your client secret',
+          },
+          // ...
+          // For more available options, check out the documentation below
+        })
+
+        gitment.render('post-spread')
+        // or
+        // gitment.render(document.getElementById('comments'))
+        // or
+        // document.body.appendChild(gitment.render())
+      </script>
     </div>
   </div>
 
@@ -500,12 +521,7 @@
 
   
     <div class="comments" id="comments">
-      <div id="disqus_thread">
-        <noscript>
-          Please enable JavaScript to view the
-          <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-        </noscript>
-      </div>
+      <div id="SOHUCS"></div>
     </div>
 
   
@@ -560,7 +576,7 @@
               
                 <a href="/archives">
               
-                  <span class="site-state-item-count">14</span>
+                  <span class="site-state-item-count">15</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -859,26 +875,6 @@
 
   
 
-    
-      <script id="dsq-count-scr" src="https://psdpi.disqus.com/count.js" async></script>
-    
-
-    
-      <script type="text/javascript">
-        var disqus_config = function () {
-          this.page.url = 'https://blog.psdpi.com/2600/';
-          this.page.identifier = '2600/';
-          this.page.title = 'SA 2600 Keycaps Design';
-        };
-        var d = document, s = d.createElement('script');
-        s.src = 'https://psdpi.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', '' + +new Date());
-        (d.head || d.body).appendChild(s);
-      </script>
-    
-
-  
-
 
 
 
@@ -894,6 +890,25 @@
 
 
 
+  
+
+
+
+
+  
+    <script type="text/javascript">
+    (function(){
+      var appid = 'cyshalK7A';
+      var conf = '2e4bd1d0d602c09dbc9ed20096afe020';
+      var width = window.innerWidth || document.documentElement.clientWidth;
+      if (width < 960) {
+      window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf + '"><\/script>'); } else { var loadJs=function(d,a){var c=document.getElementsByTagName("head")[0]||document.head||document.documentElement;var b=document.createElement("script");b.setAttribute("type","text/javascript");b.setAttribute("charset","UTF-8");b.setAttribute("src",d);if(typeof a==="function"){if(window.attachEvent){b.onreadystatechange=function(){var e=b.readyState;if(e==="loaded"||e==="complete"){b.onreadystatechange=null;a()}}}else{b.onload=a}}c.appendChild(b)};loadJs("https://changyan.sohu.com/upload/changyan.js",function(){
+        window.changyan.api.config({appid:appid,conf:conf})});
+      }
+    })();
+    </script>
+    <script type="text/javascript" src="https://assets.changyan.sohu.com/upload/plugins/plugins.count.js"></script>
+  
 
 
 
