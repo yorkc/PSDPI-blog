@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[美国游摄]]></title>
+    <url>%2Fusa%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Tour</category>
+      </categories>
+      <tags>
+        <tag>旅游</tag>
+        <tag>美国</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[CROSS ver.b]]></title>
     <url>%2Fcross%2F</url>
     <content type="text"><![CDATA[]]></content>
@@ -66,8 +78,8 @@
         <category>Work</category>
       </categories>
       <tags>
-        <tag>键帽</tag>
         <tag>海报</tag>
+        <tag>键帽</tag>
       </tags>
   </entry>
   <entry>
