@@ -11,7 +11,7 @@ date: 2018-09-21 16:32:00
 
 ![](http://image.psdpi.com/image/cross/18.jpg-1920) 
 
-<!-- more -->
+<!-- less -->
 
 ![](http://image.psdpi.com/image/cross/1.png-1920)
 ![](http://image.psdpi.com/image/cross/2.png-1920) 

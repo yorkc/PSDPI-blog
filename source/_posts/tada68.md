@@ -11,7 +11,7 @@ date: 2017-05-31 11:48:31
 
 ![](http://image.psdpi.com/image/cai681.jpg)
 
-<!-- more -->
+<!-- less -->
 
 ![](http://image.psdpi.com/image/cai681.jpg)
 ![](http://image.psdpi.com/image/cai682.jpg)

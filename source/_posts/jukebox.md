@@ -10,12 +10,16 @@ categories:
 date: 2017-05-03 13:17:19
 ---
 
-![](http://ovnmm42yn.bkt.clouddn.com/image/jukebox1.jpg)
+![](http://image.psdpi.com/image/jukebox1.jpg)
 
 <!-- more -->
 
-![](http://ovnmm42yn.bkt.clouddn.com/image/jukebox1.jpg)
-![](http://ovnmm42yn.bkt.clouddn.com/image/jukebox2.jpg)
-![](http://ovnmm42yn.bkt.clouddn.com/image/jukebox3.jpg)
-![](http://ovnmm42yn.bkt.clouddn.com/image/jukebox4.jpg)
-![](http://ovnmm42yn.bkt.clouddn.com/image/jukebox5.jpg)
+![](http://image.psdpi.com/image/jukebox1.jpg)
+
+![](http://image.psdpi.com/image/jukebox2.jpg)
+
+![](http://image.psdpi.com/image/jukebox3.jpg)
+
+![](http://image.psdpi.com/image/jukebox4.jpg)
+
+![](http://image.psdpi.com/image/jukebox5.jpg) 
