@@ -16,6 +16,7 @@
     "hexo-generator-search": "^2.3.0",
     "hexo-generator-searchdb": "^1.0.8",
     "hexo-generator-tag": "^0.2.0",
+    "hexo-less": "^0.1.0",
     "hexo-migrator-wordpress": "^1.0.0",
     "hexo-permalink-pinyin": "^1.0.0",
     "hexo-renderer-ejs": "^0.3.1",
