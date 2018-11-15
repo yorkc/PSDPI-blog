@@ -1,4 +1,4 @@
-title: 个人简历以及部分作品
+title: 个人简历以及作品集
 author: York Chan
 tags: []
 categories: []
@@ -61,9 +61,9 @@ date: 2018-11-13 14:12:00
 
 ## 粤语家
 
-![](http://image.psdpi.com/image/resume/yueyujia/y1.jpg)
+![](http://image.psdpi.com/image/resume/yueyujia/yueyu1.jpg)
 
-![](http://image.psdpi.com/image/resume/yueyujia/y2.jpg)
+![](http://image.psdpi.com/image/resume/yueyujia/yueyu2.jpg)
 
 
 ## DexDev(蚁群)门户网站
