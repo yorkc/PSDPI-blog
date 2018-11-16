@@ -240,6 +240,7 @@
       </categories>
       <tags>
         <tag>APP</tag>
+        <tag>ICON</tag>
       </tags>
   </entry>
   <entry>
@@ -262,6 +263,7 @@
       </categories>
       <tags>
         <tag>MBE</tag>
+        <tag>ICON</tag>
       </tags>
   </entry>
   <entry>
@@ -296,5 +298,10 @@
       <tags>
         <tag>ICO</tag>
       </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[照亮边缘壁纸]]></title>
+    <url>%2Fbglight%2F</url>
+    <content type="text"><![CDATA[使用PS偏门滤镜照亮边缘+碎片做的一张练习。]]></content>
   </entry>
 </search>
