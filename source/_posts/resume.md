@@ -1,7 +1,10 @@
 title: 个人简历以及作品集
 author: York Chan
-tags: []
-categories: []
+tags: 
+  - C4D
+  - APP
+categories: 
+  - Work
 date: 2018-11-13 14:12:00
 ---
 ![](http://image.psdpi.com/image/resume/resume/1.png)
@@ -20,10 +23,7 @@ date: 2018-11-13 14:12:00
 
 ![](http://image.psdpi.com/image/resume/resume/5.jpg)
 
->链接：https://pan.baidu.com/s/1ZgYUFymWlSeBUZ6WtiPz8Q 
-提取码：adjx 
-复制这段内容后打开百度网盘手机App，操作更方便哦
-
+>简历下载地址：https://pan.baidu.com/s/1kC8E3KxbugbyvSwTrj3c1g
 
 ******************************************************************************************     
 
