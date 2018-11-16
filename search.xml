@@ -6,18 +6,6 @@
     <content type="text"><![CDATA[个人简历 简历下载地址：https://pan.baidu.com/s/1kC8E3KxbugbyvSwTrj3c1g 项目作品详情K11企业管理系统（部分页面）PC端页面 移动端 粤语家 DexDev(蚁群)门户网站第二版 第一版 Trendy(赫基国际)门户网站 官网 http://www.trendy-global.com 李宇春×Major Lazer乐堡开躁新歌预告发布 MiniSite http://tuborgopen.act.qq.com/Live Music页面 http://v.qq.com/live/p/topic/33164/review.html#player 个人作品或练习三维视觉以及产品设计C4D日常练习 详情页面 https://blog.psdpi.com/c4d-diary/ SA高度「2600」机械键盘键帽设计 详情页面 https://blog.psdpi.com/2600/ SA高度「抹Choco」机械键盘键帽设计 详情页面 https://blog.psdpi.com/matchoco/]]></content>
   </entry>
   <entry>
-    <title><![CDATA[美国游摄]]></title>
-    <url>%2Fusa%2F</url>
-    <content type="text"><![CDATA[]]></content>
-      <categories>
-        <category>Tour</category>
-      </categories>
-      <tags>
-        <tag>旅游</tag>
-        <tag>美国</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[CROSS ver.b]]></title>
     <url>%2Fcross%2F</url>
     <content type="text"><![CDATA[]]></content>
@@ -76,6 +64,18 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[美国游摄]]></title>
+    <url>%2Fusa%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Tour</category>
+      </categories>
+      <tags>
+        <tag>旅游</tag>
+        <tag>美国</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[MAXKEY-MIAMI]]></title>
     <url>%2Fmiami%2F</url>
     <content type="text"><![CDATA[本次设计为MAXKEY与美国合作的版本。 个性设计+模型渲染+后期。]]></content>
@@ -83,8 +83,8 @@
         <category>Work</category>
       </categories>
       <tags>
-        <tag>海报</tag>
         <tag>键帽</tag>
+        <tag>海报</tag>
       </tags>
   </entry>
   <entry>
@@ -181,6 +181,17 @@
       </categories>
   </entry>
   <entry>
+    <title><![CDATA[动力学排斥海报练习]]></title>
+    <url>%2Fballsh%2F</url>
+    <content type="text"><![CDATA[主要使用了动力学本体排斥做的一张小练习，封面是AE加的故障动画。]]></content>
+      <categories>
+        <category>Work</category>
+      </categories>
+      <tags>
+        <tag>C4D</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[字体练习「Nan」]]></title>
     <url>%2Fnan-4-iphone6%2F</url>
     <content type="text"><![CDATA[1、使用c4d建模和渲染；2、ps后期； 分辨率为1334*750，适用于iphone6以及6s；]]></content>
@@ -200,12 +211,34 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[彭罗斯三角PENRONE Triangle]]></title>
+    <url>%2Ftriangle%2F</url>
+    <content type="text"><![CDATA[彭罗斯三角是在现实世界中，不可能客观存在的事物，只会在二维世界存在的一种图形。它是由人类的视觉系统瞬间意识地对一个二维图形的三维投射而形成的光学错觉，在三维空间中它不可能存在，但研究它将会对人脑图像形成提供医学上的帮助。 推荐一款类似的游戏—纪念碑谷 使用了C4D平行视角渲染的一组小练习。]]></content>
+      <categories>
+        <category>Work</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[MBE描边风练习]]></title>
+    <url>%2Fmbe%2F</url>
+    <content type="text"><![CDATA[模仿Dribbble大神MBE的风格做的一张小练习。]]></content>
+      <categories>
+        <category>Work</category>
+      </categories>
+      <tags>
+        <tag>MBE</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Theme-Smartisan theme for IOS]]></title>
     <url>%2Ftheme-smartisan-theme-for-ios%2F</url>
     <content type="text"><![CDATA[锤子风格的苹果主题。]]></content>
       <categories>
         <category>Work</category>
       </categories>
+      <tags>
+        <tag>拟物</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Apps UI-Bigger]]></title>
