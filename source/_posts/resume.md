@@ -7,23 +7,23 @@ categories:
   - Work
 date: 2018-11-13 14:12:00
 ---
-![](http://image.psdpi.com/image/resume/resume/1.png)
+![](http://image.psdpi.com/image/resume/resume/n1.jpg)
 
 <!-- less -->
 
 # 个人简历
 
-![](http://image.psdpi.com/image/resume/resume/1.jpg)
+![](http://image.psdpi.com/image/resume/resume/n1.jpg)
 
-![](http://image.psdpi.com/image/resume/resume/2.jpg)
+![](http://image.psdpi.com/image/resume/resume/n2.jpg)
 
-![](http://image.psdpi.com/image/resume/resume/3.jpg)
+![](http://image.psdpi.com/image/resume/resume/n3.jpg)
 
-![](http://image.psdpi.com/image/resume/resume/4.jpg)
+![](http://image.psdpi.com/image/resume/resume/n4.jpg)
 
-![](http://image.psdpi.com/image/resume/resume/5.jpg)
+![](http://image.psdpi.com/image/resume/resume/n5.jpg)
 
->简历下载地址：https://pan.baidu.com/s/1kC8E3KxbugbyvSwTrj3c1g
+>简历下载地址：https://pan.baidu.com/s/10hdOvTFOrU1L9MWEbLs5Kw
 
 ******************************************************************************************     
 
