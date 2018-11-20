@@ -4,7 +4,7 @@ id: 684
 categories:
   - Work
 tags:
-  - ICO
+  - ICON
 date: 2016-05-04 17:57:00
 ---
 

@@ -11,7 +11,9 @@ date: 2018-11-13 14:12:00
 
 <!-- less -->
 
+
 # 个人简历
+
 
 ![](http://image.psdpi.com/image/resume/resume/n1.jpg)
 
@@ -24,6 +26,7 @@ date: 2018-11-13 14:12:00
 ![](http://image.psdpi.com/image/resume/resume/n5.jpg)
 
 >简历下载地址：https://pan.baidu.com/s/10hdOvTFOrU1L9MWEbLs5Kw
+
 
 ******************************************************************************************     
 
@@ -39,24 +42,26 @@ date: 2018-11-13 14:12:00
 
 ![](http://image.psdpi.com/image/resume/k11/PC%E5%B7%A1%E5%9C%BAdashboard%201440.jpg)
 
-![](http://image.psdpi.com/image/resume/k11/%E7%BB%9F%E8%AE%A1%E6%A6%82%E8%A7%88%201440%202.jpg)
+![](http://image.psdpi.com/image/resume/k11/%E7%BB%9F%E8%AE%A1%E6%A6%82%E8%A7%88%201440%205.jpg)
 
-![](http://image.psdpi.com/image/resume/k11/%E6%8B%9B%E5%95%86%E7%AE%A1%E7%90%86%EF%BC%88%E5%8D%A1%E7%89%87%EF%BC%89.jpg)
+![](http://image.psdpi.com/image/resume/k11/%E6%8B%9B%E5%95%86%E7%AE%A1%E7%90%86%EF%BC%88%E5%8D%A1%E7%89%87%EF%BC%892.jpg)
 
 ![](http://image.psdpi.com/image/resume/k11/%E9%97%AE%E9%A2%98%E7%AE%A1%E7%90%86%20%20%E5%BC%B9%E7%AA%97%E6%90%9C%E7%B4%A2%20%E9%BB%98%E8%AE%A4%E7%8A%B6%E6%80%81.jpg)
+
+![](http://image.psdpi.com/image/resume/k11/%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.jpg) 
 
 
 ### 移动端
 
-![](http://image.psdpi.com/image/resume/k11/x1.jpg)
+![](http://image.psdpi.com/image/resume/k11/y1.jpg)
 
-![](http://image.psdpi.com/image/resume/k11/x2.jpg)
+![](http://image.psdpi.com/image/resume/k11/y2.jpg)
 
-![](http://image.psdpi.com/image/resume/k11/%E5%B7%A1%E5%9C%BA%E6%8E%92%E7%8F%AD%E8%A1%A8%20%E6%94%B6%E8%B5%B7.png)
+![](http://image.psdpi.com/image/resume/k11/y3.jpg)
 
-![](http://image.psdpi.com/image/resume/k11/%E5%B7%A1%E5%9C%BA%E6%8E%92%E7%8F%AD%E8%A1%A8%20%E7%A7%BB%E5%8A%A8%E7%AB%AF%20%E5%B1%95%E5%BC%80.png)
+![](http://image.psdpi.com/image/resume/k11/y4.jpg)
 
-![](http://image.psdpi.com/image/resume/k11/%E5%B7%A1%E5%9C%BA%E6%8E%92%E7%8F%AD%E8%A1%A8%20%E4%B8%8B%E6%BB%91%E7%9A%84%E6%97%B6%E5%80%99.png)
+![](http://image.psdpi.com/image/resume/k11/y5.jpg)
 
 
 ## 粤语家
@@ -119,6 +124,30 @@ date: 2018-11-13 14:12:00
 
 >MiniSite http://tuborgopen.act.qq.com/
 >Live Music页面 http://v.qq.com/live/p/topic/33164/review.html#player
+
+
+## 棒谷运营海报
+
+![](http://image.psdpi.com/image/resume/banggood/y1.jpg) 
+
+>详情页面 https://blog.psdpi.com/banggoodwork/
+
+
+## Trendiano微信商城
+
+![](http://image.psdpi.com/image/resume/trendy/v2_1_800.jpg) 
+
+![](http://image.psdpi.com/image/resume/trendy/v2_2_800.jpg) 
+
+
+## Trendiano微分销
+
+![](http://image.psdpi.com/image/resume/trendy/v2_W1_800.jpg) 
+
+
+## Ocrily会员活动
+
+![](http://image.psdpi.com/image/resume/trendy/v2_O3_800.jpg) 
 
 
 ******************************************************************************************     
