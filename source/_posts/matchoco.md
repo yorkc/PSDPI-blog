@@ -40,6 +40,12 @@ GH论坛:[https://geekhack.org/index.php?topic=95220.0](https://geekhack.org/ind
 
 特别感谢：大齐对ca66的支持。
 
+
+******************************************************************************************   
+
+
+# 渲染图
+
 ![](http://image.psdpi.com/image/sa-mochoco/sa_mochoco_all.jpg)
 
 ![](http://image.psdpi.com/image/sa-mochoco/sa_mochoco_base.jpg)
@@ -59,3 +65,29 @@ GH论坛:[https://geekhack.org/index.php?topic=95220.0](https://geekhack.org/ind
 ![](http://image.psdpi.com/image/sa-mochoco/sa_mochoco_ca66_2.jpg)
 
 ![](http://image.psdpi.com/image/sa-mochoco/sa_mochoco_color.jpg)
+
+
+******************************************************************************************   
+
+
+# 实物图
+
+![](http://image.psdpi.com/image/sa-mochoco/2371542939362_.pic_hd.jpg)  
+
+![](http://image.psdpi.com/image/sa-mochoco/2341542939323_.pic_hd.jpg) 
+
+![](http://image.psdpi.com/image/sa-mochoco/2361542939340_.pic_hd.jpg) 
+
+![](http://image.psdpi.com/image/sa-mochoco/2391542939382_.pic_hd.jpg)  
+
+![](http://image.psdpi.com/image/sa-mochoco/1.jpg)  
+
+![](http://image.psdpi.com/image/sa-mochoco/2.jpg)  
+
+![](http://image.psdpi.com/image/sa-mochoco/3.jpg)  
+
+![](http://image.psdpi.com/image/sa-mochoco/4.jpg)  
+
+![](http://image.psdpi.com/image/sa-mochoco/5.jpg)  
+
+![](http://image.psdpi.com/image/sa-mochoco/6.jpg)  
