@@ -7,7 +7,7 @@ categories:
   - Work
 date: 2018-11-13 14:12:00
 ---
-![](http://image.psdpi.com/image/resume/resume/n1.jpg)
+![](http://image.psdpi.com/image/resume/resume/p1.jpg)
 
 <!-- less -->
 
@@ -15,17 +15,9 @@ date: 2018-11-13 14:12:00
 # 个人简历
 
 
-![](http://image.psdpi.com/image/resume/resume/n1.jpg)
+![](http://image.psdpi.com/image/resume/resume/all.jpg)
 
-![](http://image.psdpi.com/image/resume/resume/n2.jpg)
-
-![](http://image.psdpi.com/image/resume/resume/n3.jpg)
-
-![](http://image.psdpi.com/image/resume/resume/n4.jpg)
-
-![](http://image.psdpi.com/image/resume/resume/n5.jpg)
-
->简历下载地址：https://pan.baidu.com/s/10hdOvTFOrU1L9MWEbLs5Kw
+> 简历下载地址：https://pan.baidu.com/s/10hdOvTFOrU1L9MWEbLs5Kw
 
 
 ******************************************************************************************     
@@ -107,7 +99,7 @@ date: 2018-11-13 14:12:00
 
 ![](http://image.psdpi.com/image/resume/trendy/5.jpg)
 
->官网 http://www.trendy-global.com
+> 官网 http://www.trendy-global.com
 
 
 ## 李宇春×Major Lazer乐堡开躁新歌预告发布
@@ -122,15 +114,15 @@ date: 2018-11-13 14:12:00
 
 ![](http://image.psdpi.com/image/resume/lebao/m3.jpg)
 
->MiniSite http://tuborgopen.act.qq.com/
->Live Music页面 http://v.qq.com/live/p/topic/33164/review.html#player
+> MiniSite http://tuborgopen.act.qq.com/
+> Live Music页面 http://v.qq.com/live/p/topic/33164/review.html#player
 
 
 ## 棒谷运营海报
 
 ![](http://image.psdpi.com/image/resume/banggood/y1.jpg) 
 
->详情页面 https://blog.psdpi.com/banggoodwork/
+> 详情页面 https://blog.psdpi.com/banggoodwork/
 
 
 ## Trendiano微信商城
@@ -162,7 +154,7 @@ date: 2018-11-13 14:12:00
 
 ![](http://image.psdpi.com/image/diary/cover.jpg)
 
->详情页面 https://blog.psdpi.com/c4d-diary/
+> 详情页面 https://blog.psdpi.com/c4d-diary/
 
 
 ### SA高度「2600」机械键盘键帽设计
@@ -175,7 +167,7 @@ date: 2018-11-13 14:12:00
 
 ![](http://image.psdpi.com/image/2600/ca66_11.jpg)
 
->详情页面 https://blog.psdpi.com/2600/
+> 详情页面 https://blog.psdpi.com/2600/
 
 
 ### SA高度「抹Choco」机械键盘键帽设计
@@ -184,6 +176,6 @@ date: 2018-11-13 14:12:00
 
 ![](http://image.psdpi.com/image/sa-mochoco/sa_mochoco_sa87_2.jpg)
 
->详情页面 https://blog.psdpi.com/matchoco/
+> 详情页面 https://blog.psdpi.com/matchoco/
 
 
