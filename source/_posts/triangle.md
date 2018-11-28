@@ -1,6 +1,5 @@
+---
 title: 彭罗斯三角PENRONE Triangle
-url: 1130.html
-id: 1130
 categories:
   - Work
 date: 2016-12-05 17:44:02

@@ -1,9 +1,8 @@
+---
 title: CROSS ver.b
 tags:
   - 机械键盘
   - 键帽
-url: 1878.html
-id: 1878
 categories:
   - Work
 date: 2018-09-21 16:32:00

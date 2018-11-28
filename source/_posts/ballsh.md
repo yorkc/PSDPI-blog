@@ -1,3 +1,4 @@
+---
 title: 动力学排斥海报练习
 author: York Chan
 tags:

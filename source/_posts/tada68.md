@@ -2,8 +2,6 @@
 title: TADA68蓝牙键盘渲染图
 tags:
   - 机械键盘
-url: 1600.html
-id: 1600
 categories:
   - Work
 date: 2017-05-31 11:48:31

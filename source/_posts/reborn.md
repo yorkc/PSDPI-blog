@@ -3,8 +3,6 @@ title: GMK Dolch Reborn键帽
 tags:
   - 机械键盘
   - 键帽
-url: 1535.html
-id: 1535
 categories:
   - Collect
 date: 2017-05-10 14:33:46

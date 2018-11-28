@@ -1,9 +1,8 @@
+---
 title: 美国游摄
 tags:
   - 旅游
   - 美国
-url: usa.html
-id: usa
 categories:
   - Tour
 date: 2018-2-20 

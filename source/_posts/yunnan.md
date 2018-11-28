@@ -1,6 +1,5 @@
+---
 title: 印ൢ象ൢ•云南
-url: 850.html
-id: 850
 categories:
   - Tour
 date: 2016-10-11 09:49:33

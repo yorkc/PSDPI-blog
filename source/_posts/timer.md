@@ -1,6 +1,5 @@
+---
 title: Timer 2017
-url: 1492.html
-id: 1492
 categories:
   - Work
 tags:

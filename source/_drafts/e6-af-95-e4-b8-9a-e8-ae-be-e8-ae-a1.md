@@ -6,7 +6,6 @@ tags:
 url: 347.html
 id: 347
 categories:
-  - Paint
 date: 2015-02-07 16:24:48
 ---
 

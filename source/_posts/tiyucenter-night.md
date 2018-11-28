@@ -1,7 +1,5 @@
 ---
 title: 体育中心夜摄
-url: 1526.html
-id: 1526
 categories:
   - Tour
 date: 2017-05-06 11:24:10

@@ -1,6 +1,5 @@
+---
 title: 南非&土耳其
-url: 596.html
-id: 596
 categories:
   - Tour
 date: 2015-11-24 11:50:53

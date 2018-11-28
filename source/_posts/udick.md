@@ -1,6 +1,5 @@
+---
 title: ICON-一个U盘
-url: 684.html
-id: 684
 categories:
   - Work
 tags:

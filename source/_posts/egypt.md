@@ -1,8 +1,7 @@
+---
 title: 埃及游摄
 tags:
   - 旅游
-url: egypt.html
-id: egypt
 categories:
   - Tour
 date: 2017-02-15 11:30:38

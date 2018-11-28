@@ -2,8 +2,6 @@
 title: HongKong
 tags:
   - 旅游
-url: 1567.html
-id: 1567
 categories:
   - Tour
 date: 2017-05-17 13:09:19

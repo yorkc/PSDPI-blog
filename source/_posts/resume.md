@@ -47,6 +47,11 @@ date: 2018-11-13 14:12:00
 
 ![](http://image.psdpi.com/image/resume/k11/y1.jpg)
 
+<video style="width:100%;" id="video" controls="" preload="none" poster="http://image.psdpi.com/image/resume/k11/%E6%8E%92%E7%8F%AD%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%8A%A8%E6%95%88.jpg">
+	<source style="width:100%;" id="mp4" src="http://image.psdpi.com/video/k11/%E6%8E%92%E7%8F%AD%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%8A%A8%E6%95%883.mp4" type="video/mp4">
+</video>
+
+
 ![](http://image.psdpi.com/image/resume/k11/y2.jpg)
 
 ![](http://image.psdpi.com/image/resume/k11/y3.jpg)

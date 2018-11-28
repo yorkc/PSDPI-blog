@@ -3,8 +3,6 @@ title: SA 抹Choco Keycaps Design
 tags:
   - 机械键盘
   - 键帽
-url: 1864.html
-id: 1864
 categories:
   - Work
 date: 2018-05-19 17:42:56

@@ -1,6 +1,5 @@
+---
 title: Theme-Smartisan theme for IOS
-url: 790.html
-id: 790
 categories:
   - Work
 tags: 

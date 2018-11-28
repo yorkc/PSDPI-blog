@@ -3,8 +3,6 @@ title: MAXKEY-MIAMI
 tags:
   - 海报
   - 键帽
-url: 1714.html
-id: 1714
 categories:
   - Work
 date: 2017-07-16 18:48:41

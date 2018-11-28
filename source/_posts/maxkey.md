@@ -3,8 +3,6 @@ title: MAXKAXEY实物图
 tags:
   - 机械键盘
   - 键帽
-url: 1541.html
-id: 1541
 categories:
   - Collect
 date: 2017-05-10 15:04:09

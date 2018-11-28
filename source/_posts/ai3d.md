@@ -1,10 +1,10 @@
+---
 title: AI伪3D混合效果
-url: 1498.html
-id: 1498
+author: York Chan
 categories:
   - Work
-date: 2017-05-03 11:14:08
 tags:
+date: 2017-05-03 11:14:08
 ---
 ![](http://image.psdpi.com/image/psdpi2017psdpi2017_960.png)
 

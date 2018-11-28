@@ -3,8 +3,6 @@ title: SP-sa唱片机
 tags:
   - 机械键盘
   - 键帽
-url: 1506.html
-id: 1506
 categories:
   - Collect
 date: 2017-05-03 13:17:19

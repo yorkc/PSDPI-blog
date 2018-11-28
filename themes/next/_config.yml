@@ -96,14 +96,11 @@ menu:
   #about: /about/ || user
   #标签 / Tags: /tags/ || tags
   #分类 / Categories: /categories/ || th
-  首页 / Home: / || navicon
+  首页 / Home: / || home
   作品 / Work: /categories/Work || briefcase
   收藏 / Collect: /categories/Collect || archive
   游记 / Tour: /categories/Tour || camera-retro
   #归档 / Archives: /archives/ || archive
-  #work: /categories/work || th
-  #tour: /categories/tour || th
-  #collection: /categories/collect || th
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
@@ -159,10 +156,10 @@ links_title: Links
 links_layout: block
 #links_layout: inline
 links:
-  Geekhack: https://geekhack.org/
-  Massdrop: https://www.massdrop.com/
-  Keebtalk: https://www.keebtalk.com/
-  Zfrontier: http://www.zfrontier.com/
+  # Geekhack: https://geekhack.org/
+  # Massdrop: https://www.massdrop.com/
+  # Keebtalk: https://www.keebtalk.com/
+  # Zfrontier: http://www.zfrontier.com/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif

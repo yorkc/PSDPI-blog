@@ -1,6 +1,6 @@
+---
 title: ANOTHER WORLD
-url: 1420.html
-id: 1420
+author: York Chan
 categories:
   - Work
 date: 2017-04-06 23:19:24
