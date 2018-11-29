@@ -25,7 +25,7 @@ date: 2018-11-13 14:12:00
 # 项目作品详情
 
 <br />
-## K11商城管理系统
+## K11商城管理系统（2017.03-2018.11）
 &nbsp;&nbsp;&nbsp;&nbsp;包括多个子系统设计，如：招商系统、销售数据、商城建设管理、任务管理系统等。面向B端用户，针对多角色和多区域进行了适配设计。
 
 ### PC端页面
@@ -67,7 +67,7 @@ date: 2018-11-13 14:12:00
 ![](http://image.psdpi.com/image/resume/k11/y5.jpg)
 
 <br />
-## 粤语家
+## 粤语家（2018.02-2018.11）
 &nbsp;&nbsp;&nbsp;&nbsp;一个粤语交流平台，面向C端用户。可以在粤语电影或者粤语歌曲截取经典语录进行交流，使用户在使用过程中了解到粤语文化以及对粤语的提升。
 
 ![](http://image.psdpi.com/image/resume/yueyujia/yueyu1.jpg)
@@ -75,7 +75,7 @@ date: 2018-11-13 14:12:00
 ![](http://image.psdpi.com/image/resume/yueyujia/yueyu2.jpg)
 
 <br />
-## DexDev(蚁群)门户网站
+## DexDev(蚁群)门户网站（2017.03-2018.04）
 &nbsp;&nbsp;&nbsp;&nbsp;蚁群信息科技是一家主要服务于K11商城管理系统的一家外包公司，以下为公司官网的其中两个版本。
 
 ### 第二版
@@ -98,7 +98,7 @@ date: 2018-11-13 14:12:00
 ![](http://image.psdpi.com/image/resume/dexdev/mb_web_dexdev_nav_v2.jpg)
 
 <br />
-## Trendy(赫基国际)门户网站
+## Trendy(赫基国际)门户网站（2016）
 
 ![](http://image.psdpi.com/image/resume/trendy/1.jpg)
 
@@ -127,6 +127,7 @@ date: 2018-11-13 14:12:00
 
 ![](http://image.psdpi.com/image/resume/lebao/m3.jpg)
 
+> 项目线上地址：
 > MiniSite http://tuborgopen.act.qq.com/
 > Live Music页面 http://v.qq.com/live/p/topic/33164/review.html#player
 
@@ -135,10 +136,11 @@ date: 2018-11-13 14:12:00
 
 ![](http://image.psdpi.com/image/resume/banggood/y1.jpg) 
 
-> 详情页面 https://blog.psdpi.com/banggoodwork/
+> 详情请浏览 https://blog.psdpi.com/banggoodwork/
 
 <br />
 ## Trendiano微信商城
+&nbsp;&nbsp;&nbsp;&nbsp;赫基国际旗下男装品牌的微店商城，面向C端用户，除了正常的购买功能外，创新点在于有专属导购功能和线上预约试穿等，后期成功延伸至公司旗下Ochirly女装品牌。
 
 ![](http://image.psdpi.com/image/resume/trendy/v2_1_800.jpg) 
 
@@ -146,11 +148,12 @@ date: 2018-11-13 14:12:00
 
 <br />
 ## Trendiano微分销
+&nbsp;&nbsp;&nbsp;&nbsp;Trendiano微店的移动端后台（分销版本），面向B端用户，在移动端就可以处理店铺订单，提取订单提成，编辑商品信息等功能。
 
 ![](http://image.psdpi.com/image/resume/trendy/v2_W1_800.jpg) 
 
 <br />
-## Ocrily会员活动
+## Ochirly会员活动
 
 ![](http://image.psdpi.com/image/resume/trendy/v2_O3_800.jpg) 
 
@@ -184,16 +187,16 @@ date: 2018-11-13 14:12:00
 
 ![](http://image.psdpi.com/image/2600/ca66_11.jpg)
 
-> 详情页面 https://blog.psdpi.com/2600/
+> 详情请浏览 https://blog.psdpi.com/2600/
 
 <br />
-## SA高度「抹Choco」机械键盘键帽设计
+## SA高度「抹Choco」键帽设计
 &nbsp;&nbsp;&nbsp;&nbsp;SA高度机械键盘键帽设计，适用于市面上大部分Cherry轴心或者Gateron轴心机械键盘。Maxkey代工生产。主要在国外Massdrop电商平台上以团购方式销售。
 
 ![](http://image.psdpi.com/image/sa-mochoco/sa_mochoco_all.jpg)
 
 ![](http://image.psdpi.com/image/sa-mochoco/sa_mochoco_sa87_2.jpg)
 
-> 详情页面 https://blog.psdpi.com/matchoco/
+> 详情请浏览 https://blog.psdpi.com/matchoco/
 
 
