@@ -16,7 +16,7 @@ date: 2018-12-18 14:12:00
 
 ![](http://image.psdpi.com/image/resume/resume/all.jpg)
 
-> 简历下载地址：https://pan.baidu.com/s/10hdOvTFOrU1L9MWEbLs5Kw
+> 简历以及更多作品下载地址：https://pan.baidu.com/s/10hdOvTFOrU1L9MWEbLs5Kw
 
 <br />
 ******************************************************************************************     
@@ -68,11 +68,17 @@ date: 2018-12-18 14:12:00
 
 <br />
 ## 粤语家（2018.02-2018.11）
-&nbsp;&nbsp;&nbsp;&nbsp;一个粤语交流平台，面向C端用户。可以在粤语电影或者粤语歌曲截取经典语录进行交流，使用户在使用过程中了解到粤语文化以及对粤语的提升。
+&nbsp;&nbsp;&nbsp;&nbsp;一个粤语交流平台，面向C端用户。通过调研结果表示目前粤语越来越走向国际化，但是粤语文化相对于其他方言来说难学而且途径较少。粤语家是一款可以随时随地学习粤语的小程序，解决“粤语难”、“途径少”等问题。
 
-![](http://image.psdpi.com/image/resume/yueyujia/yueyu1.jpg)
+![](http://image.psdpi.com/image/yueyujia/yueyu1.jpg)
 
-![](http://image.psdpi.com/image/resume/yueyujia/yueyu2.jpg)
+![](http://image.psdpi.com/image/yueyujia/yueyu2.jpg)
+
+![](http://image.psdpi.com/image/yueyujia/yueyu3.jpg)
+
+![](http://image.psdpi.com/image/yueyujia/yueyu4.jpg)
+
+![](http://image.psdpi.com/image/yueyujia/yueyu5.jpg)
 
 <br />
 ## DexDev(蚁群)门户网站（2017.03-2018.04）
@@ -144,13 +150,18 @@ date: 2018-12-18 14:12:00
 
 ![](http://image.psdpi.com/image/resume/trendy/v2_1_800.jpg) 
 
-![](http://image.psdpi.com/image/resume/trendy/v2_2_800.jpg) 
+![](http://image.psdpi.com/image/resume/trendy/v2_2_800.jpg)
+
+> 项目地址：可关注Trendiano - MY TRE - 微店
+> 更多页面可见简历下载链接：https://pan.baidu.com/s/10hdOvTFOrU1L9MWEbLs5Kw
 
 <br />
 ## Trendiano微分销
 &nbsp;&nbsp;&nbsp;&nbsp;Trendiano微店的移动端后台（分销版本），面向B端用户，在移动端就可以处理店铺订单，提取订单提成，编辑商品信息等功能。
 
-![](http://image.psdpi.com/image/resume/trendy/v2_W1_800.jpg) 
+![](http://image.psdpi.com/image/resume/trendy/v2_W1_800.jpg)
+
+> 更多页面可见简历下载链接：https://pan.baidu.com/s/10hdOvTFOrU1L9MWEbLs5Kw
 
 <br />
 ## Ochirly会员活动

@@ -16,7 +16,7 @@ tags:
 # -10月-
 
 ![](http://image.psdpi.com/image/diary/ball1.jpg) 
-![](http://image.psdpi.com/image/diary/ball2.jpg) 
+![](http://image.psdpi.com/image/diary/ball2-1.jpg)
 ![](http://image.psdpi.com/image/diary/fontA.jpg) 
 ![](http://image.psdpi.com/image/diary/bone.jpg) 
 ![](http://image.psdpi.com/image/diary/ball-1.jpg) 
