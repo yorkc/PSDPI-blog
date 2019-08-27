@@ -1,4 +1,3 @@
----
 title: My Resume - 我的简历以及作品集
 tags:
   - 社交
@@ -7,7 +6,7 @@ url: 762.html
 id: 762
 categories:
   - Work
-date: 2017-05-20 18:00:18
+date: 2017-05-20 18:00:00
 ---
 
 .container\_12 .grid\_8{width:100%;}.grid_4{display:none;}p{font-size:16px;}

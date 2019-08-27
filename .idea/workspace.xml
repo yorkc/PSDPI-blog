@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54888d53-848b-4e00-a217-48c1a87b373e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -308,12 +307,12 @@
       <workItem from="1550462844742" duration="626000" />
       <workItem from="1550578850537" duration="1407000" />
       <workItem from="1550753877812" duration="4508000" />
-      <workItem from="1551096152060" duration="228000" />
+      <workItem from="1551096152060" duration="467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43484000" />
+    <option name="totallyTimeSpent" value="43723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1058" extended-state="0" />
