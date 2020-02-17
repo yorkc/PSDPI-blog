@@ -5,7 +5,13 @@
   <span class="with-love">
     <i class="fa fa-{{ theme.footer.icon }}"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder">{{ theme.footer.copyright || config.author }}</span>
+  <span class="author" itemprop="copyrightHolder">{{ theme.footer.copyright || config.author }}</span>  
+
+  <span class="BbeiAn-info">
+  {{ __('粤ICP备') }} -
+  <a href="http://www.beian.miit.gov.cn">15041735号</a>
+  </a>
+</span>
 
   {% if theme.post_wordcount.totalcount %}
     <span class="post-meta-divider">|</span>
@@ -44,4 +50,8 @@
   <div class="footer-custom">{#
   #}{{ theme.footer.custom_text }}{#
 #}</div>
+
 {% endif %}
+
+
+
